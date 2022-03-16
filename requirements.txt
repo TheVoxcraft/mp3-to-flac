@@ -1,0 +1,6 @@
+soundfile
+numpy
+tensorflow
+pydub
+librosa
+pandas
